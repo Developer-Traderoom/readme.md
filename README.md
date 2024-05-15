@@ -6,8 +6,10 @@ Developer Traderoom is a billfold technologies application that uses composites 
 
  •Based upon store business machine technologies, integrate with Github, Deviant Art, Pine and other developer environments.
  
- •Reviews from NASDAQ, NYSE, CBOE and analyitics from DJI, S&P and other indexes.
+ •Reports from NASDAQ, NYSE, CBOE and analyitics from DJI, S&P and other indexes.
 
  •Apply procedural scripts, technical indicators, ambience, platforms, lexicons, embedded schematics and symbols.
 
  •Negotiate composite schematics using virtual traderooms and store business machine notebooks.
+
+ •Develop new traderoom apps to add extensibility to your suites and their procedurals.
